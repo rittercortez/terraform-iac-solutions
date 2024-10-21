@@ -1,4 +1,4 @@
-# Proyecto 1: Implementación de VPC con Subred Pública y Tabla de Rutas
+![image](https://github.com/user-attachments/assets/82af218f-2ecf-43fc-b439-03f1ef4ac344)# Proyecto 1: Implementación de VPC con Subred Pública y Tabla de Rutas
 
 ## Contexto del Cliente
 Una empresa está expandiendo su infraestructura en AWS y te han contratado para implementar una **Virtual Private Cloud (VPC)** con una subred pública que pueda conectarse a Internet. Este es un paso inicial para preparar la infraestructura donde se desplegarán otros recursos.
@@ -31,3 +31,5 @@ Una empresa está expandiendo su infraestructura en AWS y te han contratado para
 ## Solución Técnica
 
 Este proyecto ha sido implementado utilizando **Terraform** para automatizar la creación de los recursos mencionados. Los scripts incluyen la configuración de la VPC, subred, Internet Gateway, y la tabla de rutas, con el uso de variables para facilitar su reutilización y adaptabilidad.
+![image](https://github.com/user-attachments/assets/e91262cf-77db-4c55-9990-93dd36bb9cac)
+
