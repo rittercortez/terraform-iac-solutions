@@ -1,66 +1,67 @@
 # 🌐 **Terraform Project Hub**
 
-## **Descripción**
-🎉 ¡Bienvenido a mi colección de proyectos Terraform! Este repositorio está diseñado para mostrar mis habilidades en **Infraestructura como Código (IaC)**, organizadas progresivamente y categorizadas por nivel de dificultad. Aquí encontrarás:
+## **Description**
+🎉 Welcome to my Terraform project collection! This repository showcases my **Infrastructure as Code (IaC)** skills, organized progressively and categorized by difficulty level. Here's what you'll find:
 
-- **✅ Proyectos funcionales:** que abordan diferentes escenarios y soluciones en la nube.
-- **📂 Ejercicios de aprendizaje:** ubicados en la carpeta **`concepts/`**, donde practico conceptos clave de Terraform.
-- **🛠️ Proyectos categorizados por niveles** para reflejar la progresión y aplicación de buenas prácticas.
-
----
-
-## **🌟 Estructura del Repositorio**
-
-### **1. Carpeta de Conceptos (`concepts/`)**
-📘 **Objetivo:** Aprender y practicar conceptos específicos de Terraform.  
-Aquí encontrarás ejemplos pequeños y funcionales que ilustran conceptos como:
-
-- Uso de módulos.
-- Configuración de recursos individuales (como S3, VPC y subnets).
-- Exploración de funciones dinámicas, variables y locals.
-
-Estos ejemplos son ideales para entender conceptos aislados y construir una base sólida.
+- **✅ Functional projects:** Solving various cloud scenarios and challenges.
+- **📂 Learning exercises:** Located in the **`concepts/`** folder, focusing on key Terraform concepts.
+- **🛠️ Categorized projects** to highlight the progression of skills and best practices.
 
 ---
 
-### **2. Proyectos Categoría `aws/`**
-Dentro de la carpeta `aws/` se encuentran proyectos **categorizados en tres niveles**, cada uno con un prefijo que indica su nivel de dificultad:
+## **🌟 Repository Structure**
 
-#### **✨ Proyectos Sencillos (Nivel 1)**
-**Prefijo:** `01-sencillo-`  
-🔹 Proyectos funcionales, pero con margen para mejoras en la aplicación de buenas prácticas:  
-- Uso limitado de módulos.
-- Organización básica del código.
+### **1. Concepts Folder (`concepts/`)**
+📘 **Purpose:** Practice and learn specific Terraform concepts.  
+This folder includes small and functional examples that demonstrate:
 
-#### **🚀 Proyectos Intermedios (Nivel 2)**
-**Prefijo:** `02-intermedio-`  
-🔹 Proyectos que aplican buenas prácticas como:  
-- Uso eficiente de módulos para mantener código reutilizable.
-- Separación de variables, outputs y archivos principales.
-- Funcionalidad más avanzada (condicionales, bucles, etc.).
+- How to use modules.
+- Configuring individual resources (like S3, VPC, and subnets).
+- Exploring dynamic functions, variables, and locals.
 
-#### **💼 Proyectos Avanzados (Nivel 3)**
-**Prefijo:** `03-avanzado-`  
-🔹 Proyectos de alta complejidad diseñados para:  
-- Resolver escenarios reales empresariales.
-- Solucionar errores complejos.
-- Integrar múltiples servicios de AWS.
+These examples are perfect for isolating concepts and building a solid foundation.
 
 ---
 
-## **🚧 Planes Futuros**
-💡 Este repositorio seguirá creciendo con:
-1. Nuevos proyectos que cubran más servicios y casos de uso de AWS.  
-2. Soluciones a problemas complejos encontrados en entornos empresariales.  
-3. Ejercicios conceptuales que sirvan como referencia para otros interesados en Terraform.  
+### **2. Projects in `aws/`**
+Inside the `aws/` folder, you'll find **projects categorized into three levels**, each prefixed to indicate the difficulty level:
+
+#### **✨ Beginner Projects (Level 1)**
+**Prefix:** `01-basic-`  
+🔹 Functional projects with room for improvement in best practices, such as:  
+- Limited use of modules.  
+- Basic code organization.
+
+#### **🚀 Intermediate Projects (Level 2)**
+**Prefix:** `02-intermediate-`  
+🔹 Projects that implement best practices, including:  
+- Efficient use of modules for reusable code.  
+- Separation of variables, outputs, and main configuration files.  
+- More advanced functionality (conditionals, loops, etc.).
+
+#### **💼 Advanced Projects (Level 3)**
+**Prefix:** `03-advanced-`  
+🔹 High-complexity projects designed to:  
+- Solve real-world business scenarios.  
+- Address complex errors.  
+- Integrate multiple AWS services.
 
 ---
 
-## **🔍 Cómo Navegar**
-1. **Explorar conceptos básicos:** Comienza con la carpeta `concepts/` para entender cómo funcionan elementos clave de Terraform.  
-2. **Revisar proyectos completos:** Explora la carpeta `aws/` para encontrar proyectos organizados por nivel.  
-3. **Identificar el nivel:** Usa el prefijo en cada carpeta para identificar rápidamente la dificultad del proyecto.
+## **🚧 Future Plans**
+💡 This repository will continue to grow with:  
+1. New projects covering more AWS services and use cases.  
+2. Solutions to complex problems encountered in enterprise environments.  
+3. Conceptual exercises serving as reference material for Terraform learners.  
 
 ---
 
-Espero que este repositorio no solo muestre mi conocimiento, sino que también sirva como referencia para otros que estén aprendiendo **Terraform** y **IaC**. 🚀
+## **🔍 How to Navigate**
+1. **Start with basics:** Check out the `concepts/` folder to understand key Terraform elements.  
+2. **Explore complete projects:** Dive into the `aws/` folder for projects organized by difficulty.  
+3. **Identify levels:** Use the folder prefix to quickly identify the complexity of each project.
+
+---
+
+I hope this repository not only showcases my knowledge but also serves as a helpful reference for others learning **Terraform** and **IaC**. 🚀
+
