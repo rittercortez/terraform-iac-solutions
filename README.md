@@ -3,7 +3,7 @@
 ## **Description**
 🎉 Welcome to my Terraform project collection! This repository showcases my **Infrastructure as Code (IaC)** skills, organized progressively and categorized by difficulty level. Here's what you'll find:
 
-- **✅ Functional projects:** Solving various cloud scenarios and challenges.
+- **✅ Functional projects:** Solving various cloud scenarios and challenges
 - **📂 Learning exercises:** Located in the **`concepts/`** folder, focusing on key Terraform concepts.
 - **🛠️ Categorized projects** to highlight the progression of skills and best practices.
 
