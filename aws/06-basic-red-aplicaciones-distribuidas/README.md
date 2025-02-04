@@ -73,4 +73,5 @@ Para este proyecto, se han implementado técnicas avanzadas de Terraform:
 
 ---
 Utilize LocalStack para simular el entorno de AWS
-# docker run -p 4566:4566 -p 4571:4571 localstack/localstack
+´´´bash
+ docker run -p 4566:4566 -p 4571:4571 localstack/localstack
